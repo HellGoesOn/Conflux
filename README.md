@@ -1,3 +1,3 @@
 # Conflux
 gaem engin
-\nPrimary target: cool gam made by Hell
+Primary target: cool gam made by Hell
